@@ -10,8 +10,6 @@
 #import <Parse/Parse.h>
 
 @interface DeailsViewController : UIViewController
-
-
 @property (weak, nonatomic) IBOutlet UILabel *Name;
 @property (weak, nonatomic) IBOutlet UILabel *Age;
 @property (weak, nonatomic) IBOutlet UILabel *Skill;

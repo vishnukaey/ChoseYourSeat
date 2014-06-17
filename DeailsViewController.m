@@ -46,7 +46,7 @@
                 self.Empid.text=[object objectForKey:@"empId"];
                 self.project.text=[object objectForKey:@"Project"];
                 self.Address.adjustsFontSizeToFitWidth = YES;
-                self.img.image = [UIImage imageNamed:@"download (8).jpeg"];
+                self.img.image = [UIImage imageNamed:@"download (6).jpeg"];
             }
         }
     }];
